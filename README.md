@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi👋 I'm Shima Yahya 
+A Full-Stack Web Developer 👨‍💻
+
+- 📫 How to reach me shima.almushiki@gmail.com
 
 <!--
 **ShimaYahya/ShimaYahya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
